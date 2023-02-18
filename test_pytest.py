@@ -1,4 +1,4 @@
-from the_python_code import inc_dec   # The code to test
+import inc_dec   # The code to test
 
 def test_increment():
     """
