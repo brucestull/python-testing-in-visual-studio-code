@@ -1,5 +1,9 @@
 # Python testing in Visual Studio Code
 
+## Next Concept to Investigate
+
+* [IntelliSense for pytest](https://code.visualstudio.com/docs/python/testing#_intellisense-for-pytest)
+
 ## Resources
 
 * <https://code.visualstudio.com/docs/python/testing>
