@@ -9,6 +9,7 @@
         "-p",
         "test_*.py"
     ],
+    // Need to figure out if I can have both enabled at the same time.
     // "python.testing.unittestEnabled": true,
     // "python.testing.pytestEnabled": false,
     "python.testing.unittestEnabled": false,
